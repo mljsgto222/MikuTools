@@ -151,10 +151,6 @@ module.exports = {
         },
         {
             src: '~/plugins/vue-good-table.js'
-        },
-        {
-            src: '~/plugins/baidupush.js',
-            ssr: false
         }
     ],
 
