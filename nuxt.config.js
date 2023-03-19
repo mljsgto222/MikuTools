@@ -228,6 +228,6 @@ module.exports = {
     // },
     router: {
         prefetchLinks: false,
-        middleware: ['getCurrentTool', 'baidupush']
+        middleware: ['getCurrentTool']
     }
 };
